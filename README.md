@@ -25,4 +25,4 @@ npm run build
 
 ## Deployment
 
-This repository includes a GitHub Pages workflow that builds the site and deploys the `dist` output automatically on pushes to `main`.
+The repository can be published with GitHub Pages by serving the built static files from `docs/` on the `main` branch.
